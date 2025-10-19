@@ -12,4 +12,4 @@ Matches are 90 minutes in length and are played between two teams under the cont
 The coach decides the roster (which players play which positions, Figure 2) before the match and ensures that stats are tracked. Typical positions on a team include Goalkeeper, Forwards (Striker, Center Forward, Wingers), Midfielders (Mid, Right Mid, Center Mid, Attacking Mid, Defensive Mid), and Defenders (Center back, Left Back, Right Back, and Wing Backs). Some of the most-commonly tracked player stats include player goals, assists, possession %, pass counts, and passing chains. For example, in the first match of the season, Denise Stacker scored 3 goals and had 2 assists.
 
 A season schedule exists for all the teams. A match schedule for the day could look like the following (Figure 1) with the match score and winner filled in after the match concludes.
-<img width="471" height="337" alt="image" src="https://github.com/user-attachments/assets/9aab6900-2c0f-462b-888b-7fcce8aafcdd" />
+
